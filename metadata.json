@@ -1,0 +1,10 @@
+{
+  "name": "Remix: LIB - Malayalam Online Library",
+  "description": "A modern Malayalam-focused online library delivery platform that blends traditional literary culture with modern digital convenience.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
